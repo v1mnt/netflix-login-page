@@ -1,4 +1,4 @@
 <div align="center">
     <img src="print.png" width="1250px">
-    <h6>For educational purposes only</h6>
+    <h5>For educational purposes only</h5>
 </div>
